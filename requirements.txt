@@ -1,0 +1,6 @@
+requests
+flaskapp
+flask
+Flask
+gunicorn
+twilio
